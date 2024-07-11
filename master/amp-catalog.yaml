@@ -10,7 +10,11 @@ entries:
       it includes two baselines (One Class SVM, PCA) and provides a frontend
       interface for exploring model results.
     image_path: >-
+<<<<<<< HEAD
       https://raw.githubusercontent.com/hadoopch/AML/master/images/zeppelin.png
+=======
+      https://raw.githubusercontent.com/hadoopch/AMP/master/images/zeppelin.png
+>>>>>>> 1dc7e1d (new image)
     tags:
       - Anomaly Detection
       - Tensorflow
