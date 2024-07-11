@@ -10,11 +10,11 @@ entries:
       it includes two baselines (One Class SVM, PCA) and provides a frontend
       interface for exploring model results.
     image_path: >-
-      https://raw.githubusercontent.com/cloudera/Applied-ML-Prototypes/master/images/anomaly-detection.jpg
+      https://raw.githubusercontent.com/hadoopch/AML/master/images/zeppelin.jpg
     tags:
       - Anomaly Detection
       - Tensorflow
       - Autoencoder
       - GAN
-    git_url: "https://github.com/cloudera/CML_AMP_Anomaly_Detection"
+    git_url: "https://github.com/hadoopch/CML_AMP_Anomaly_Detection"
     is_prototype: true
