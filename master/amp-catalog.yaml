@@ -1,0 +1,20 @@
+name: utehrani
+entries:
+  - title: Deep Learning for Anomaly Detection
+    label: anomaly-detection
+    short_description: Apply modern, deep learning techniques for anomaly detection to identify network intrusions.
+    long_description: >-
+      This project includes implementations of several neural networks
+      (Autoencoder, Variational Autoencoder, Bidirectional GAN, Sequence Models)
+      applied to the task of anomaly detection in Tensorflow 2.0. For comparison,
+      it includes two baselines (One Class SVM, PCA) and provides a frontend
+      interface for exploring model results.
+    image_path: >-
+      https://raw.githubusercontent.com/cloudera/Applied-ML-Prototypes/master/images/anomaly-detection.jpg
+    tags:
+      - Anomaly Detection
+      - Tensorflow
+      - Autoencoder
+      - GAN
+    git_url: "https://github.com/cloudera/CML_AMP_Anomaly_Detection"
+    is_prototype: true
